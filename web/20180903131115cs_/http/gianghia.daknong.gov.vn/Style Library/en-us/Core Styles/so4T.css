@@ -48,7 +48,7 @@ div.dRight{
 }
 /***/
 div.logoS{
-	height:77px;
+	height:110px;
 	background: none;	
 }
 div.ms-logo a{
@@ -2069,8 +2069,8 @@ display: none !important;
 
 /* ++++++++++++++  banner-top  ++++++++++++++ */
 .v4-banner {
-	background: url("/img/banner.jpg") no-repeat;
-	height: 175px;
+	/* background: url("/img/bannerbg.jpg") no-repeat; */
+	/* height: 175px; */
 	overflow: hidden;
 	width: 960px;
 	margin: 0px auto;
