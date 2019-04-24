@@ -3597,6 +3597,9 @@ vertical-align:top;
 body #s4-simple-content{
 margin-left:70px;
 }
+a{
+	text-decoration: none !important;
+}
 .s4-popuptitle h1{
 font-size:1.7em;
 font-weight:normal;
