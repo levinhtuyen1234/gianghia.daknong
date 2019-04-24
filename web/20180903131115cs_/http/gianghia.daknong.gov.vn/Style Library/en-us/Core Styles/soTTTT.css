@@ -242,14 +242,14 @@ div.main-level{
 }
 /**/
 div.dangnhap{
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/iconDN.png") no-repeat left center;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/iconDN.png") no-repeat left center;
 	padding:0px 30px 0px 20px;
 }
 div.dangnhap:hover{
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/iconDNH.png") no-repeat left center;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/iconDNH.png") no-repeat left center;
 }
 .logoLink a{
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/logoHCm.png") no-repeat left center;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/logoHCm.png") no-repeat left center;
 	text-indent:-9999px;
 	width:178px;
 	margin-top:11px;
@@ -257,7 +257,7 @@ div.dangnhap:hover{
 	display:block;
 }
 .logoLink a:hover{
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/logoHCmH.png") no-repeat left center;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/logoHCmH.png") no-repeat left center;
 }
 .hLeft-LKimage{
 	margin-top:6px;
@@ -339,10 +339,10 @@ td.Other{
 	color:#d00;
 }
 .css_Xemtiep{
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/xem.gif") no-repeat left top;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/xem.gif") no-repeat left top;
 }
 .css_Xemtiep:hover{
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/xemH.gif") no-repeat left top;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/xemH.gif") no-repeat left top;
 }
 .css_bt_Xemtheongay {
 	width: 36px;
@@ -438,7 +438,7 @@ div#UnionNews_main_mode2, div#UnionNews_menu_mode2{
 table.lv_union_table_menuheader{
 	padding-left:10px;
 	height:31px;
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/menuTab.png") repeat-x left 0px;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/menuTab.png") repeat-x left 0px;
 }
 table.lv_union_table_menuheader td{
 	height:31px;
@@ -459,7 +459,7 @@ div.union_image_thumb ul{
 }
 div.union_image_thumb ul li{
 	padding:7px 5px;
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/borNews.png") repeat-x left top;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/borNews.png") repeat-x left top;
 }
 div.union_image_thumb ul li.firstflag{
 	background-image:none;
@@ -504,7 +504,7 @@ div.union_main_image img{
 }
 .union_image_thumb div.Union_block h2 a{
 	font-weight:normal;
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/icon2.jpg") no-repeat left 4px;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/icon2.jpg") no-repeat left 4px;
 	padding-left:10px;
 	display:block;
 }
@@ -555,7 +555,7 @@ div.union_main_image .Union_desc{
 }
 .htLeft .CMSThumbnail{
 	padding:10px 0px;
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soTTTTimage/bgTM.jpg") repeat-x center top;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soTTTTimage/bgTM.jpg") repeat-x center top;
 }
 .container_mid_main_in1 table tr:first-child + tr td.CMSThumbnail{
 	background-image:none;
@@ -611,7 +611,7 @@ div.first-ms-navheader a:hover,.div-link-navheader a:hover, .div-link-navheader 
 	width:226px;
 }
 .mnRight .first-ms-navheader{
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/titleTopR.jpg") no-repeat center 1px;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/titleTopR.jpg") no-repeat center 1px;
 }
 .classshow .classshow{
 	padding:0px;
@@ -620,7 +620,7 @@ div.first-ms-navheader a:hover,.div-link-navheader a:hover, .div-link-navheader 
 	font-weight:bold;
 }
 .hLeft .div-leftsubmenu{
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/icon1.jpg") no-repeat left 2px;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/icon1.jpg") no-repeat left 2px;
 	padding-left:20px;
 }
 div.div-leftsubmenu a, div.div-leftsubmenu a:link, div.div-leftsubmenu a:visited{
@@ -663,7 +663,7 @@ div.div-leftsubmenu a:hover{
     padding-left: 15px;
 }
 .navList ul li ul li ul li div.ms-navItem span, .navList ul li ul li ul li div.ms-navItem a {
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/dot-gray.gif") no-repeat 5px 4px;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/dot-gray.gif") no-repeat 5px 4px;
 	padding-left: 15px;
 	color: #6b6b6b;
 }
@@ -733,7 +733,7 @@ div.heading-hover,div.heading-hover span:hover,div.heading-hover span,div.headin
 }
 .container_mid_main_in1 table td.LItem{
 	padding:5px 5px 5px 12px;
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/icon2.jpg") no-repeat 0px 10px;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/icon2.jpg") no-repeat 0px 10px;
 }
 td.LItem a, td.LItem a:link, td.LItem a:visited{
 	color:#333;
@@ -752,7 +752,7 @@ td.LItem span{
 	width:220px;
 }
 .hRight .div_header_style1{
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/titleR.jpg") no-repeat center 1px;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/titleR.jpg") no-repeat center 1px;
 }
 .thongbao .div_header_style1{
 	padding-top:8px;
@@ -761,7 +761,7 @@ td.LItem span{
 
 /**** 1 cua ***/
 .lv-Motcua-title{
-	background:#fff url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/titleTopR.jpg") no-repeat 1px 1px;
+	background:#fff url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/titleTopR.jpg") no-repeat 1px 1px;
 	text-align:left!important;
 	color:#fff;
 	font:bold 12px arial;
@@ -1241,7 +1241,7 @@ textarea.cell2_text{
 }
 .cell2 table table a{
 	margin-left:10px;
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/_LAYOUTS/LacVietBio/eofficeimg/Giaodien/NewsCity/DeleteCategory.gif") no-repeat left center;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/_LAYOUTS/LacVietBio/eofficeimg/Giaodien/NewsCity/DeleteCategory.gif") no-repeat left center;
 	line-height:19px;
 	padding-left:20px;
 }
@@ -1288,7 +1288,7 @@ div.div-congbao img{
 	padding:5px 10px;
 }
 .ms-navItem a{
-	background: url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/icon1.jpg") no-repeat left 2px;
+	background: url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/icon1.jpg") no-repeat left 2px;
 	padding-left:20px;
 	display:block;
 	font-family:Arial;
@@ -1363,7 +1363,7 @@ div.ms-navItem a:hover{
 	color:#fff!important;
 }
 .thongbao-detail td.LItem a,.thongbao-detail td.LItem a:link,.thongbao-detail td.LItem a:visited{
-	background:url("https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/soGDDTimage/icon2.jpg") no-repeat 0px 5px;
+	background:url("/web/20180710004717im_/http/gianghia.daknong.gov.vn/soGDDTimage/icon2.jpg") no-repeat 0px 5px;
 	padding-left:10px;
 }
 .thongbao-detail td.LItem{
@@ -1785,7 +1785,7 @@ div.divvbm_xemchitiet{
 }
 
 .layout-grid td.demos {
-	background: url('https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/images/demos_bg.jpg') no-repeat;
+	background: url('/web/20180710004717im_/http/gianghia.daknong.gov.vn/images/demos_bg.jpg') no-repeat;
 	height: 337px;
 	overflow: hidden;
 }
@@ -2477,7 +2477,7 @@ div.srch-Page{
 	float:right;
 	width:80px;
 	text-align:right;
-	background:url('https://web.archive.org/web/20180710004717im_/http://gianghia.daknong.gov.vn/SiteAssets/images/fgimg.png') 10px 1px no-repeat;
+	background:url('/web/20180710004717im_/http/gianghia.daknong.gov.vn/SiteAssets/images/fgimg.png') 10px 1px no-repeat;
 	color:#0072BC;
 	font-weight:bold;
 }

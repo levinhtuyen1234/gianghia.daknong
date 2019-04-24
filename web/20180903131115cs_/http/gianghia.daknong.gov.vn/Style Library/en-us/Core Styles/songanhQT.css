@@ -6,7 +6,7 @@
 }
 /***/
 .masMainH1{
-	background: url('https://web.archive.org/web/20180710003756im_/http://gianghia.daknong.gov.vn/soGDDTimage/bgMainHB.jpg' ) no-repeat left bottom;overflow:hidden;padding-bottom:5px
+	background: url('/web/20180710003756im_/http/gianghia.daknong.gov.vn/soGDDTimage/bgMainHB.jpg' ) no-repeat left bottom;overflow:hidden;padding-bottom:5px
 }
 a{
 	text-decoration: none !important;
@@ -55,7 +55,7 @@ div.dk_storeTreeView a:hover{color:#d00;}
 	padding:20px 0px 0px 20px;overflow:hidden
 }
 .dk_getAllRSS a{
-	background: url("https://web.archive.org/web/20180710003756im_/http://gianghia.daknong.gov.vn/imgSoTTTT/btmCapNhat.png") no-repeat left top;	
+	background: url("/web/20180710003756im_/http/gianghia.daknong.gov.vn/imgSoTTTT/btmCapNhat.png") no-repeat left top;	
 	font-weight:bold;
 	text-transform:uppercase;
 	display:block;
@@ -105,7 +105,7 @@ div.dk_storeGridView table.ms-listviewtable tr.td_paging td{
 	text-align: center;margin:0px 10px 10px 0px;float: left
 }
 #cpanel div.icon a{
-	background:url("https://web.archive.org/web/20180710003756im_/http://gianghia.daknong.gov.vn/imgSoTTTT/bground.png") no-repeat;
+	background:url("/web/20180710003756im_/http/gianghia.daknong.gov.vn/imgSoTTTT/bground.png") no-repeat;
 	width: 126px;
 	height: 137px;
 	color: rgb(86, 86, 86);
@@ -116,7 +116,7 @@ div.dk_storeGridView table.ms-listviewtable tr.td_paging td{
 	font-size:12px;
 }
 #cpanel div.icon a:hover{
-	background:url("https://web.archive.org/web/20180710003756im_/http://gianghia.daknong.gov.vn/imgSoTTTT/bgHover.png") no-repeat;color:#1866b6
+	background:url("/web/20180710003756im_/http/gianghia.daknong.gov.vn/imgSoTTTT/bgHover.png") no-repeat;color:#1866b6
 }
 #cpanel img{
 	margin: 0px auto;padding: 10px 0px;border:0px
@@ -129,7 +129,7 @@ div.dk_storeGridView table.ms-listviewtable tr.td_paging td{
 }
 /************ menu quan tri jomla  ***************/
 .menuQT{
-	margin-bottom:10px;background:url('https://web.archive.org/web/20180710003756im_/http://gianghia.daknong.gov.vn/imgSoTTTT/mnBackg.png') repeat-x left -1px;height:30px;display:block
+	margin-bottom:10px;background:url('/web/20180710003756im_/http/gianghia.daknong.gov.vn/imgSoTTTT/mnBackg.png') repeat-x left -1px;height:30px;display:block
 }
 #module-menu{width:auto;}
 #menu, #menu ul, #menu li{
@@ -167,7 +167,7 @@ div.dk_storeGridView table.ms-listviewtable tr.td_paging td{
 	background-color:#e4e7ea;border:1px solid #b5bbc1;margin-left:1px
 }
 #menu ul li.node{
-	background: url("https://web.archive.org/web/20180710003756im_/http://gianghia.daknong.gov.vn/imgSoTTTT/j_arrow.png") no-repeat right 50%;
+	background: url("/web/20180710003756im_/http/gianghia.daknong.gov.vn/imgSoTTTT/j_arrow.png") no-repeat right 50%;
 }
 #menu ul li.separator{
 	background-color:#d5dbe0;height:1px
