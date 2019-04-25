@@ -19,12 +19,7 @@ __wbhack.init('https://web.archive.org/web');
 	
 	TTTĐT thị xã Gia Nghĩa
 
-</title><link rel="stylesheet" type="text/css" href="../../../../20180903131115cs_/http%253A/gianghia.daknong.gov.vn/_layouts/1033/styles/Themable/search.css@rev=Uoc0fsLIo87aYwT%252FGX5UPw%253D%253D"/>
-<link rel="stylesheet" type="text/css" href="../../../../20180903131115cs_/http%253A/gianghia.daknong.gov.vn/Style&#32;Library/en-us/Core&#32;Styles/so4T.css"/>
-<link rel="stylesheet" type="text/css" href="../../../../20180903131115cs_/http%253A/gianghia.daknong.gov.vn/Style&#32;Library/en-us/Core&#32;Styles/songanhQT.css"/>
-<link rel="stylesheet" type="text/css" href="../../../../20180903131115cs_/http%253A/gianghia.daknong.gov.vn/Style&#32;Library/en-us/Core&#32;Styles/soTTTT.css"/>
-<link rel="stylesheet" type="text/css" href="../../../../20180903131115cs_/http%253A/gianghia.daknong.gov.vn/_layouts/1033/styles/Themable/corev4.css@rev=iIikGkMuXBs8CWzKDAyjsQ%253D%253D"/>
-
+</title>
 	<script type="text/javascript">
 	var _fV4UI = true;
 	</script>
